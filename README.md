@@ -1,4 +1,4 @@
-## CLIKE HERE TO DOWNLOAD ANALYSIS [Kenneth_Lamin_TEDx.pdf](https://github.com/user-attachments/files/19012157/Kenneth_Lamin_TEDx.pdf)
+CLIKE HERE TO DOWNLOAD THE ANALYSIS ON POWER BI [Kenneth_Lamin_TEDx.pdf](https://github.com/user-attachments/files/19012157/Kenneth_Lamin_TEDx.pdf)
 
 # Analyzing TEDx Talks – What Makes a Talk Popular?
 ## Project Overview:
