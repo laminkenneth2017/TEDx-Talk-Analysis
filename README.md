@@ -1,3 +1,5 @@
+## CLIKE HERE TO DOWNLOAD ANALYSIS [Kenneth_Lamin_TEDx.pdf](https://github.com/user-attachments/files/19012157/Kenneth_Lamin_TEDx.pdf)
+
 # Analyzing TEDx Talks – What Makes a Talk Popular?
 ## Project Overview:
 This project aims to analyze TEDx talks to determine the factors that make a talk popular. Using Power BI for data visualization, the project explores relationships between ratings, views, comments, talk duration, publication dates, and speaker influence to provide insights for future speakers looking to maximize engagement.
